@@ -9,8 +9,7 @@
 
 - 🌱 I’m currently learning **React, Databases, Web Development.**
 
-- 📝 Education Qualifications [Currently Pursing B.Sc[C.S] Degree from S.P.P.U University, Pune.](Currently Pursing
-B.Sc[C.S] Degree from S.P.P.U University, Pune.)
+- 📝 Education Qualifications **Currently Pursing B.Sc[C.S] Degree from S.P.P.U University, Pune.**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript.**
 
