@@ -5,18 +5,19 @@
 
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" alt="">
 
-- 🔭 I’m currently working on **website clone projects.**
+- 🔭 I’m currently working on : **website clone projects.**
 
-- 🌱 I’m currently learning **React, Databases, Web Development.**
+- 🌱 I’m currently learning : **React, Databases, Web Development.**
 
-- 📝 Education Qualifications **Currently Pursing B.Sc[C.S] Degree from S.P.P.U University, Pune.**
+- 📝 Education Qualifications : **Currently Pursing B.Sc[C.S] Degree from S.P.P.U University, Pune.**
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript.**
+- 💬 Ask me about : **HTML, CSS, Bootstrap, JavaScript.**
 
-- 📫 How to reach me **yashwalke6503@gmail.com**
+- 📫 How to reach me : **yashwalke6503@gmail.com**
 
-- ⚡ Fun fact **Enjoy and Debug every Error of yourlife..**
+- ⚡ Fun fact : **Enjoy and Debug every Error of yourlife..**
 
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/yash walke" target="blank"><img align="center"
@@ -29,7 +30,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="yash.csb" height="30" width="40" /></a>
 </p>
-
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
