@@ -19,7 +19,7 @@
 
 <hr>
 
-    <div class="fluid-container">
+<div class="fluid-container">
         <div class="education" id="edu">
             <h2>Education & Qualifications</h2>
             <div class="accordion" id="accordionExample">
