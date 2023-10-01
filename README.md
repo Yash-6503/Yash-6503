@@ -19,75 +19,7 @@
 
 <hr>
 
-<div class="fluid-container">
-        <div class="education" id="edu">
-            <h2>Education & Qualifications</h2>
-            <div class="accordion" id="accordionExample">
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                            aria-expanded="true" aria-controls="collapseOne">
-                            Graduation.
-                        </button>
-                    </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            <strong>Currently I am Pursing Degree in B.Sc[Computer Science] in K.T.H.M College,Nashik from S.P.P.U University Pune.</strong> <br>I have Successfully cleared my both  (1<sup>st</sup> & 2<sup>nd</sup>)
-                            years with <strong>First Class Distinction CGPA of 8.25.</strong>
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            HSC Qualification.
-                        </button>
-                    </h2>
-                    <div id="collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                            I had cleared my HSC Qualifications with First class Distinction class having 82.20%
-                            in academic year 2020-21.<br>
-                            From K.T.H.M College, Nashik.
-                        </div>
-                    </div>
-                </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            SSC Qualification.
-                        </button>
-                    </h2>
-                    <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                        I had cleared my SSC Qualifications with First class Distinction class having 82.20%
-                        in academic year 2018-19.<br>
-                        From Gautam Public School, Kolpewadi.
-                        </div>
-                    </div>
-                </div>
 
-                <div class="accordion-item">
-                    <h2 class="accordion-header">
-                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                            data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
-                            Courses & Skill Development
-                        </button>
-                    </h2>
-                    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
-                        <div class="accordion-body">
-                           I have Completed Fullstack  Web Development Course of 6 Months & Internship, Training, Interview skills Done Succesfully. <br> from Technokraft Training Solutions pvt.limited (TTS), Nashik.<br>
-                           I have mastered in languages such as HTML, CSS, JavaScript, Bootstrap, Nodejs, React, Java, C, C++, Python, Database, SQL, etc.
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <hr>
-    </div>
-
-    <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/yash walke" target="blank"><img align="center"
