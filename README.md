@@ -1,7 +1,7 @@
 <img src="https://aspireinfolabs.com/static/media/blog_cover_7.b10ac410.jpeg" width="100%" alt="">
 
 <h1 align="center">Hi 👋, I'm Yash Walke.</h1>
-<h3 align="center">Currently A passionate Fullstack[frontend] Developer from India..</h3>
+<h3 align="center">Currently A passionate Fullstack Developer from India..</h3>
 
 <img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" alt="">
 
