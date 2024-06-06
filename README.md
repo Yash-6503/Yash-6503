@@ -2,21 +2,17 @@
 <h1 align="center">Hi 👋, I'm Yash Walke.</h1>
 <h3 align="center">Currently A passionate Fullstack Developer from India..</h3>
 
-<img src="https://miro.medium.com/v2/resize:fit:1358/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" width="100%" alt="">
+- 🔭 I’m currently working on : **website clone projects.**
 
-<div align="center">
-    - 🔭 I’m currently working on : **website clone projects.**
+- 🌱 I’m currently learning : **React, Databases, Web Development.**
 
-    - 🌱 I’m currently learning : **React, Databases, Web Development.**
-    
-    - 📝 Education Qualifications : **Completed Graduation in B.Sc[C.S] Degree from S.P.P.U University, Pune.**
-    
-    - 💬 Ask me about : **HTML, CSS, Bootstrap, JavaScript.**
-    
-    - 📫 How to reach me : **yashwalke6503@gmail.com**
-    
-    - ⚡ Fun fact : **Enjoy and Debug every Error of yourlife..**
-</div>
+- 📝 Education Qualifications : **Completed Graduation in B.Sc[C.S] Degree from S.P.P.U University, Pune.**
+
+- 💬 Ask me about : **HTML, CSS, Bootstrap, JavaScript.**
+
+- 📫 How to reach me : **yashwalke6503@gmail.com**
+
+- ⚡ Fun fact : **Enjoy and Debug every Error of yourlife..**
 
 <hr>
 
