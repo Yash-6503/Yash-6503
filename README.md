@@ -1,15 +1,15 @@
 
 <h1 align="left">Hi 👋, I'm Yash Walke.</h1>
-<h3 align="left">Currently A passionate Fullstack Developer from India..</h3>
+<h3 align="left">Currently A passionate Frontend Developer from India..</h3>
 <hr>
 
 - 🔭 I’m currently working on : **website clone projects.**
 
-- 🌱 I’m currently learning : **React, Databases, Web Development.**
+- 🌱 I’m currently learning : **React, Web Development.**
 
 - 📝 Education Qualifications : **Completed Graduation in B.Sc[C.S] Degree from S.P.P.U University, Pune.**
 
-- 💬 Ask me about : **HTML, CSS, Bootstrap, JavaScript.**
+- 💬 Ask me about : **HTML, CSS, Bootstrap, JavaScript, Reactjs, Nextjs, TailwindCSS.**
 
 - 📫 How to reach me : **yashwalke6503@gmail.com**
 
@@ -26,7 +26,10 @@
     <a href="https://fb.com/yash walke" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="yash walke" height="30" width="40" /></a>
-    <a href="https://instagram.com/yash.csb" target="blank"><img align="center"
+    <a href="https://instagram.com/_yash.dev_" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="yash.csb" height="30" width="40" /></a>
+    <a href="https://wa.link/ud3opd" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="yash.csb" height="30" width="40" /></a>
 </p>
