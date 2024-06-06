@@ -1,6 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Yash Walke.</h1>
-<h3 align="center">Currently A passionate Fullstack Developer from India..</h3>
+<h1 align="left">Hi 👋, I'm Yash Walke.</h1>
+<h3 align="left">Currently A passionate Fullstack Developer from India..</h3>
+<hr>
 
 - 🔭 I’m currently working on : **website clone projects.**
 
