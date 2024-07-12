@@ -3,13 +3,13 @@
 <h3 align="left">Currently A passionate Frontend Developer from India..</h3>
 <hr>
 
-- 🔭 I’m currently working on : **website clone projects.**
+- 🔭 I’m currently working on : **Data Structures and Algorithms using Java**
 
-- 🌱 I’m currently learning : **React, Web Development.**
+- 🌱 I’m currently learning : **Java Fullstack Development**
 
-- 📝 Education Qualifications : **Completed Graduation in B.Sc[C.S] Degree from S.P.P.U University, Pune.**
+- 📝 Education Qualifications : **Completed Graduation in B.Sc[Computer Science] Degree from S.P.P.U University, Pune.**
 
-- 💬 Ask me about : **HTML, CSS, Bootstrap, JavaScript, Reactjs, Nextjs, TailwindCSS.**
+- 💬 Ask me about : **C, Java, HTML, CSS, Bootstrap, JavaScript, Reactjs, Nextjs, TailwindCSS.**
 
 - 📫 How to reach me : **yashwalke6503@gmail.com**
 
