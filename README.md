@@ -3,6 +3,8 @@
 <h3 align="left">Currently A passionate Frontend Developer from India..</h3>
 <hr>
 
+- 📍 Current Location : **Hyderabad, Telangana, India**
+
 - 🔭 I’m currently working on : **Data Structures and Algorithms using Java**
 
 - 🌱 I’m currently learning : **Java Fullstack Development**
