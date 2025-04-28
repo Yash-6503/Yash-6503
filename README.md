@@ -1,17 +1,17 @@
 <img src="./Cover.gif" width="1000" autoplay="true" />
 <h1 align="left">Hi 👋, I'm Yash Walke.</h1>
-<h3 align="left">Currently A passionate Frontend Developer from India..</h3>
+<h3 align="left">Currently A passionate Software Developer from India..</h3>
 <hr>
 
 - 📍 Current Location : **Hyderabad, Telangana, India**
 
-- 🔭 I’m currently working on : **Data Structures and Algorithms using Java**
+- 🔭 I’m currently working on : **SpringBoot & Reactjs**
 
 - 🌱 I’m currently learning : **Java Fullstack Development**
 
 - 📝 Education Qualifications : **Completed Graduation in B.Sc[Computer Science] Degree from S.P.P.U University, Pune.**
 
-- 💬 Ask me about : **C, Java, HTML, CSS, Bootstrap, JavaScript, Reactjs, Nextjs, TailwindCSS.**
+- 💬 Ask me about : **C, Java, HTML, CSS, Bootstrap, JavaScript, Reactjs, Nextjs, TailwindCSS, Advance-Java, Spring, SpringBoot, Oracle.**
 
 - 📫 How to reach me : **yashwalke6503@gmail.com**
 
