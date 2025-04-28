@@ -1,4 +1,4 @@
-
+<img src="./Cover.gif" width="1000" autoplay="true" />
 <h1 align="left">Hi 👋, I'm Yash Walke.</h1>
 <h3 align="left">Currently A passionate Frontend Developer from India..</h3>
 <hr>
