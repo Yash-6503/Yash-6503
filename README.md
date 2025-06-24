@@ -20,7 +20,7 @@
 
  ⚡ Fun fact : **Enjoy and Debug every Error of yourlife..**
   
- 🌐 Visit my Portfolio : **https://portfolio-yashwalke.vercel.app**
+ 🌐 Visit my Portfolio : **https://portfolio-yashwalke.netlify.app/**
 </div>
 <hr>
 
