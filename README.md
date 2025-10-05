@@ -2,19 +2,19 @@
 <h1 align="center">Hi 👋, I'm Yash Walke.</h1>
 <h3 align="center">Currently A passionate Software Developer from India..</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1AB4F9&center=true&vCenter=true&width=435&lines=Java+Fullstack+Developer;SpringBoot+%7C+React+%7C+Java;Fill+Free+to+Connect;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1AB4F9&center=true&vCenter=true&width=435&lines=Java+Fullstack+Developer;Java+%7C+SpringBoot+%7C+React.js;Fill+Free+to+Connect...;" alt="Typing SVG" />
 </p>
 
 <hr>
 <div align="center" >
   
- 📍 Current Location : **Hyderabad, Telangana, India**
+ 📍 Current Location : **Pune, Maharashtra, India**
 
  🔭 I’m currently working on : **SpringBoot & Reactjs**
 
  🌱 I’m currently learning : **Java Fullstack Development**
 
- 📝 Education Qualifications : **B.Sc[Computer Science]**
+ 📝 Education Qualifications : **Master of Computer Application - [MCA]**
 
  📫 How to reach me : **yashwalke6503@gmail.com**
 
@@ -35,10 +35,10 @@
             alt="yash walke" height="40" width="40" /></a> &nbsp;
     <a href="https://instagram.com/_yash.dev_" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="yash.csb" height="40" width="40" /></a> &nbsp;
+            alt="yash.dev" height="40" width="40" /></a> &nbsp;
     <a href="https://wa.link/ud3opd" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-            alt="yash.csb" height="40" width="40" /></a>
+            alt="yash.dev" height="40" width="40" /></a>
     
 </p>
 <hr>
