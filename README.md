@@ -8,11 +8,11 @@
 <hr>
 <div align="center" >
   
- 📍 Current Location : **Pune, Maharashtra, India**
+ 📍 Current Location : **Hyderabad, Telangana, India**
 
- 🔭 I’m currently working on : **SpringBoot & Reactjs**
+ 🔭 I’m currently working on : **SpringBoot, Nodejs & Reactjs**
 
- 🌱 I’m currently learning : **Java Fullstack Development**
+ 🌱 I’m currently learning : **Java Fullstack Development & MERN Fullstack Development**
 
  📝 Education Qualifications : **Master of Computer Application - [MCA]**
 
