@@ -148,7 +148,7 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,nextjs,js,html,css,tailwind,bootstrap,mysql,mongodb,docker,jenkins,maven,postman,git,github&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,nextjs,js,redux,python,c,cpp,html,css,tailwind,bootstrap,figma,mysql,hibernate,mongodb,docker,jenkins,maven,postman,git,github&perline=6" />
 </p>
 
 ---
@@ -157,8 +157,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashwalke&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwalke&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yash-6503&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-6503&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
 ---
