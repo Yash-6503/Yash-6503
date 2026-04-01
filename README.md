@@ -115,7 +115,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-✨ Passionate Software Developer from India <br>
+✨ Passionate Java Fullstack Developer from India <br>
 📍 Based in Hyderabad, Telangana <br>
 💻 Working on Spring Boot | React | Node.js <br>
 📚 Learning Java Fullstack & MERN Stack <br>
