@@ -1,4 +1,4 @@
-<img src="./CoverBanner.gif" width="1000" autoplay="true" />
+<!-- <img src="./CoverBanner.gif" width="1000" autoplay="true" />
 <h1 align="center">Hi 👋, I'm Yash Walke.</h1>
 <h3 align="center">Currently A passionate Software Developer from India..</h3>
 <p align="center">
@@ -85,4 +85,138 @@
 </p>
 
 
+ -->
 
+
+<!-- TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Hi%20👋,%20I'm%20Yash%20Walke&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- NAME + TITLE -->
+<!-- <h1 align="center">Hi 👋, I'm Yash Walke</h1> -->
+<h3 align="center">💻 Java Fullstack Developer | 🚀 Building Scalable Web Apps</h3>
+
+<!-- TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+React;Fullstack+Developer;Open+to+Opportunities;Always+Learning+New+Tech+🚀"/>
+</p>
+
+<!-- PROFILE VIEWS + FOLLOW -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashwalke&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/yashwalke?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/yashwalke?label=Stars&style=for-the-badge&color=yellow"/>
+</p>
+
+---
+
+<!-- ABOUT ME -->
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+✨ Passionate Software Developer from India <br>
+📍 Based in Hyderabad, Telangana <br>
+💻 Working on Spring Boot | React | Node.js <br>
+📚 Learning Java Fullstack & MERN Stack <br>
+🎓 MCA Graduate <br>
+⚡ "Debugging life one error at a time!"
+</p>
+
+<p align="center">
+🌐 <b>Portfolio : </b>
+<a href="https://portfolio-yashwalke.netlify.app/" target="_blank"> visit my portfolio
+  <!-- <img src="https://img.shields.io/badge/Visit%20Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white"/> -->
+</a>
+</p>
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+<a href="https://linkedin.com/in/yash walke"><img src="https://img.shields.io/badge/LinkedIn-00C9FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/_yash.dev_"><img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.link/ud3opd"><img src="https://img.shields.io/badge/WhatsApp-00FF94?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+<a href="mailto:yashwalke6503@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,nextjs,js,html,css,tailwind,bootstrap,mysql,mongodb,docker,jenkins,maven,postman,git,github&perline=6" />
+</p>
+
+---
+
+<!-- STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashwalke&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashwalke&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+</p>
+
+---
+
+<!-- LANGUAGES -->
+<!-- <h2 align="center">📈 Top Languages</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-6503&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+</p>
+--- -->
+
+<!-- ACTIVITY GRAPH -->
+<h2 align="center">⚡ Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-6503&theme=tokyo-night&hide_border=true&radius=10"/>
+</p>
+
+---
+
+<!-- TROPHIES -->
+<!-- <h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash-6503&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
+</p>
+
+--- -->
+
+<!-- QUOTE -->
+<h2 align="center">🧠 Developer Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<!-- SNAKE -->
+<!-- <h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yash-6503/Yash-6503/output/github-contribution-grid-snake.svg"/>
+</p>
+
+--- -->
+
+<!-- FUN GIF -->
+<h2 align="center">🎯 Fun Zone</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&text=Thank%20You...&fontSize=40&fontColor=ffffff&section=footer"/>
+</p>
