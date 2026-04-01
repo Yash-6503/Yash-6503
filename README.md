@@ -157,7 +157,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yash-6503&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Yash-6503&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-6503&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
 </p>
 
@@ -187,7 +187,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Yash-6503&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
 
---- -->
+--- 
 
 <!-- QUOTE -->
 <h2 align="center">🧠 Developer Quote</h2>
